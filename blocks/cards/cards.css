@@ -1,0 +1,30 @@
+.cards {
+  max-width: 984px;
+  margin: 0 auto;
+  display: grid;
+  row-gap: 80px;
+  
+}
+@media screen and (max-width: 1024px) {
+  .cards{
+    max-width: 928px;
+   
+  }
+}
+@media screen and (max-width: 768px) {
+  .cards{
+    max-width: 720px;
+  }
+}
+@media screen and (max-width: 625px) {
+  .cards {
+    max-width: 520px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    max-width: 320px;
+   
+  }
+}

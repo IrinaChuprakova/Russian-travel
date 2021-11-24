@@ -1,0 +1,19 @@
+.cards__text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  margin: 0 0 26px 0;
+
+}
+.cards__text:last-child {
+  margin-bottom: 0px;
+
+}
+@media screen and (max-width: 768px) {
+  .cards__text {
+    font-size: 16px;
+  line-height: 26px;
+  }
+}
+
