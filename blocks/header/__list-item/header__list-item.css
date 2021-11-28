@@ -2,11 +2,6 @@
   margin-left: 18px;
 
 }
-.header__list-item:first-child {
-  margin-left: 0;
-  text-decoration: underline;
-
-}
 .header__list-item:hover{
   opacity: 0.8;
 }

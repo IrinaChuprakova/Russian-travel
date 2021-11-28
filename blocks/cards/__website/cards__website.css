@@ -2,3 +2,8 @@
   align-self: end;
   
 }
+@media screen and (max-width: 320px) {
+  .cards__website{
+    margin: 0 16px;
+  }
+}

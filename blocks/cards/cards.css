@@ -6,25 +6,30 @@
   
 }
 @media screen and (max-width: 1024px) {
-  .cards{
+  .cards {
     max-width: 928px;
-   
+  }
+}
+@media screen and (max-width: 978px) {
+  .cards {
+    max-width: 768px;
   }
 }
 @media screen and (max-width: 768px) {
-  .cards{
-    max-width: 720px;
+  .cards {
+    max-width: 700px;
+    row-gap: 73px;
   }
 }
 @media screen and (max-width: 625px) {
   .cards {
-    max-width: 520px;
+    max-width: 500px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .header {
+  .cards {
     max-width: 320px;
-   
+    row-gap: 50px;
   }
 }
