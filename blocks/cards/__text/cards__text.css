@@ -13,11 +13,12 @@
   .cards__text {
     font-size: 16px;
     line-height: 26px;
+    margin: 0 0 25px 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cards__text {
-    margin: 0 16px;
+    margin: 0 16px 16px;
   }
 }
