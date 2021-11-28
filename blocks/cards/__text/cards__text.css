@@ -19,6 +19,6 @@
 
 @media screen and (max-width: 320px) {
   .cards__text {
-    margin: 0 16px 16px;
+    margin: 0 16px 20px;
   }
 }

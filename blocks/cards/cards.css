@@ -3,27 +3,17 @@
   margin: 0 auto;
   display: grid;
   row-gap: 80px;
-  
 }
 @media screen and (max-width: 1024px) {
   .cards {
     max-width: 928px;
   }
 }
-@media screen and (max-width: 978px) {
-  .cards {
-    max-width: 768px;
-  }
-}
+
 @media screen and (max-width: 768px) {
   .cards {
-    max-width: 700px;
+    max-width: 720px;
     row-gap: 73px;
-  }
-}
-@media screen and (max-width: 625px) {
-  .cards {
-    max-width: 500px;
   }
 }
 
