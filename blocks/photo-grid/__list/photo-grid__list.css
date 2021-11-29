@@ -15,6 +15,11 @@
     grid-gap: 16px;
   }
 }
+@media screen and (max-width: 580px) {
+  .photo-grid__list {
+    grid-template-columns: repeat(auto-fit, minmax(224px, 1fr));
+  }
+}
 
 @media screen and (max-width: 320px) {
   .photo-grid__list {
