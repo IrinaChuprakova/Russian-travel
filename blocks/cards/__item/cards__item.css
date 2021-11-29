@@ -17,10 +17,15 @@
     grid-gap: 48px 28px;
   }
 }
+@media screen and (max-width: 580px) {
+  .cards__item {
+    grid-template-columns: minmax(288px,1fr);
+    grid-gap: 48px 28px;
+  }
+}
 
 @media screen and (max-width: 320px) {
   .cards__item {
-    grid-template-columns: minmax(288px,1fr);
     grid-gap: 32px;
   }
 }

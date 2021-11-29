@@ -18,12 +18,7 @@
 @media screen and (max-width: 320px) {
   .cards__title {
     font-size: 32px;
-    line-height: 36px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cards__title {
+    line-height: 35px;
     margin:0 16px;
   }
 }
