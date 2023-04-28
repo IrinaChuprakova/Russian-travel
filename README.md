@@ -7,5 +7,5 @@
 * Flexbox
 * Grid Layout
 
-Посмотреть проект: https://irinachuprakova.github.io/
+Посмотреть проект: https://irinachuprakova.github.io/Russian-travel/
 
